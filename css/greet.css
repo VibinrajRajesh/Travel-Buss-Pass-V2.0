@@ -1,0 +1,70 @@
+@import url("fonts.css");
+body{
+    font-family: "Roboto";
+    background: linear-gradient(to right, #66ffff 0%, #5200ff 100%);
+    overflow-y: hidden;
+}
+
+.navbar{
+    font-family: "Roboto";
+    background-color: #fff;
+}
+
+.logo{
+    font-family: "Bebas Neue";
+    color:#5200ff;
+}
+
+.logo:hover{
+    color:#5200ff;
+}
+
+.logo:visited{
+    color:#5200ff;
+}
+
+.login-box{
+    width:27%;
+    height:538px;
+    position:relative;
+    margin:7% 37%;
+    padding:5px;
+    background: rgba( 255, 255, 255);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    overflow:hidden;
+}
+
+.header1{
+    font-family:"Roboto";
+    color:#5200ff;
+    margin:8% 35%;
+}
+
+form{
+    margin-left:74px;
+}
+
+
+input[type="email"],input[type="password"]{
+    width:72%;
+}
+
+#btn{
+    background-color: #5200ff; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:30px;
+    margin:10px 75px;
+}
+
+#div1{
+    display:block;
+    margin-left: 25%;
+}
