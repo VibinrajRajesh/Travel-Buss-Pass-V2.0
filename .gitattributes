@@ -1,5 +1,1 @@
-*.PHP linguist-detectable=true
-*.CSS linguist-detectable=true
-*.HTML linguist-detectable=true
-*.Javascript linguist-detectable=true
-*.Hack linguist-detectable=false
+*.php linguist-detectable=false
