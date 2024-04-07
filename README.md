@@ -43,5 +43,5 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ### Contact
 
-Name: Vibinraj Rajesh<br>
+Name: Vibinraj Rajesh <br>
 Email: vibinrajesh2021@gmail.com
